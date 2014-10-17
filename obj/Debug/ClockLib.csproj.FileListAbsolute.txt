@@ -1,0 +1,5 @@
+c:\users\dag\documents\visual studio 2013\Projects\StateÖvning\ClockLib\bin\Debug\ClockLib.dll
+c:\users\dag\documents\visual studio 2013\Projects\StateÖvning\ClockLib\bin\Debug\ClockLib.pdb
+c:\users\dag\documents\visual studio 2013\Projects\StateÖvning\ClockLib\obj\Debug\ClockLib.csprojResolveAssemblyReference.cache
+c:\users\dag\documents\visual studio 2013\Projects\StateÖvning\ClockLib\obj\Debug\ClockLib.dll
+c:\users\dag\documents\visual studio 2013\Projects\StateÖvning\ClockLib\obj\Debug\ClockLib.pdb
